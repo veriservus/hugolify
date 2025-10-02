@@ -2,13 +2,13 @@
   "name": "hugolify-template",
   "version": "1.16.0",
   "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "repository": "https://github.com/veriservus/hugolify",
   "bugs": {
     "url": "https://github.com/hugolify/hugolify-template/issues"
   },
   "author": {
-    "email": "sebousan@gmail.com",
-    "name": "Sébastien Moulène",
+    "email": "veriservus@example.com",
+    "name": "Andy",
     "url": "https://www.sebastienmoulene.com/"
   },
   "license": "MIT",
